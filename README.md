@@ -1,8 +1,8 @@
-# The objective of the project was to analyze HR data to identify trends and insights regarding employee retention. The project aimed to develop a deep understanding of attrition rates, salary distributions, employee satisfaction, and other factors influencing retention within a company.
+The objective of the project was to analyze HR data to identify trends and insights regarding employee retention. The project aimed to develop a deep understanding of attrition rates, salary distributions, employee satisfaction, and other factors influencing retention within a company.
 
-# The analysis yielded several important insights:
+The analysis yielded several important insights:
 
-# Attrition Hotspots: Departments like sales and research exhibited higher-than-average attrition rates, indicating possible issues related to job satisfaction or work pressure.
+Attrition Hotspots: Departments like sales and research exhibited higher-than-average attrition rates, indicating possible issues related to job satisfaction or work pressure.
 Salary Influence: A clear relationship was established between lower monthly income and higher attrition rates, suggesting that employees with lower pay were more likely to leave the organization.
 Work-Life Balance: Certain job roles, such as research scientists, reported lower satisfaction with work-life balance, which may contribute to attrition in these roles.
 Promotion Delays: Employees who had not received a promotion in over five years were more likely to leave the company, highlighting the importance of career progression in retention strategies.
